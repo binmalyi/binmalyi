@@ -23,7 +23,7 @@ https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-orig
 <!DOCTYPE>
 <html>
   <p align="center">
-    <kbd><img src="https://i.pinimg.com/564x/ea/ac/f2/eaacf2de55e4bada0e171dee02ab6661.jpg" width="120" height="200" /></kbd><br><br>
+    <kbd><img src="https://media.discordapp.net/attachments/1025768427903778856/1055087780369281034/IMG_20210619_214703_365.jpg" width="120" height="200" /></kbd><br><br>
     <a href="https://www.youtube.com/channel/UCzdzv_sobuxuPJHLZzIh6tg" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="" height="30" width="30" /></a>
     <a href="https://www.instagram.com/bin.malyi" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="" height="30" width="30" /></a><br>
     <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" /></a>
