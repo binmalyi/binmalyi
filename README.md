@@ -30,6 +30,6 @@ https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-orig
     <a href="https://javascript.info" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/></a>
     <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/></a><br>
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=c2kolwl0uwrwm31zw1msees8x&count=1" /><br><br>
-    <a href="https://discord.com/users/873576476136575006"><img src="https://lanyard.cnrad.dev/api/873576476136575006?idleMessage=Overthinking...&hideDiscrim=true" width="400"/></a>
+    <a href="https://discord.com/users/873576476136575006"><img src="https://lanyard.cnrad.dev/api/873576476136575006?idleMessage=bound%20to%20the%20rythm&hideDiscrim=true" width="400"/></a>
   </p>
  </html>
