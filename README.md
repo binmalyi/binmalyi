@@ -1,4 +1,3 @@
-<img align="left" src="https://i.pinimg.com/564x/48/27/69/48276974f7832b284d2940f9c13d3589.jpg" alt="profile" height="350" />
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=c2kolwl0uwrwm31zw1msees8x&count=1" />
 
 ```ocaml
